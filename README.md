@@ -1,6 +1,6 @@
 # banco de dados biblioteca
 
-# tabelas
+## tabelas
   *livro
   *aluno
   *professor
